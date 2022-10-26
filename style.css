@@ -1,0 +1,8 @@
+*{
+    background-color:grey;
+}
+p,pre,ul,li,h3,h2{
+    color: black;
+    font-family: FuzzyBubbles;
+    font-size: xx-large;
+}
